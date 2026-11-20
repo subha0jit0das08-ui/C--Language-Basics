@@ -14,4 +14,5 @@ int main()
     {
         printf("%dis less than %d", Num1, Num2);
     }
+    return 0;
 }
